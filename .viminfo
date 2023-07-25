@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1690299170,,"wq"
+|2,0,1690300086,,"wq"
 :q
 |2,0,1690295392,,"q"
 :wq!
@@ -33,24 +33,30 @@
 |3,1,0,1,2,0,1690294954,"  <role rolename=\"tomcat\"/>","  <role rolename=\"role1\"/>"
 
 # File marks:
-'0  1  10  ~/index.html
-|4,48,1,10,1690299170,"~/index.html"
-'1  6  10  ~/Dockerfile
-|4,49,6,10,1690299123,"~/Dockerfile"
-'2  69  23  /opt/tom/conf/server.xml
-|4,50,69,23,1690295466,"/opt/tom/conf/server.xml"
-'3  1  0  /opt/tom/conf/catalina.properties
-|4,51,1,0,1690295392,"/opt/tom/conf/catalina.properties"
-'4  1  0  /opt/tom/catalina.properties
-|4,52,1,0,1690295304,"/opt/tom/catalina.properties"
-'5  39  0  /opt/tom/bin/catalina-tasks.xml
-|4,53,39,0,1690295208,"/opt/tom/bin/catalina-tasks.xml"
-'6  59  74  /opt/tom/conf/tomcat-users.xml
-|4,54,59,74,1690295068,"/opt/tom/conf/tomcat-users.xml"
-'7  21  0  /opt/tom/webapps/manager/META-INF/context.xml
-|4,55,21,0,1690294903,"/opt/tom/webapps/manager/META-INF/context.xml"
+'0  5  46  ~/Dockerfile
+|4,48,5,46,1690300086,"~/Dockerfile"
+'1  1  10  ~/index.html
+|4,49,1,10,1690299170,"~/index.html"
+'2  6  10  ~/Dockerfile
+|4,50,6,10,1690299123,"~/Dockerfile"
+'3  69  23  /opt/tom/conf/server.xml
+|4,51,69,23,1690295466,"/opt/tom/conf/server.xml"
+'4  1  0  /opt/tom/conf/catalina.properties
+|4,52,1,0,1690295392,"/opt/tom/conf/catalina.properties"
+'5  1  0  /opt/tom/catalina.properties
+|4,53,1,0,1690295304,"/opt/tom/catalina.properties"
+'6  39  0  /opt/tom/bin/catalina-tasks.xml
+|4,54,39,0,1690295208,"/opt/tom/bin/catalina-tasks.xml"
+'7  59  74  /opt/tom/conf/tomcat-users.xml
+|4,55,59,74,1690295068,"/opt/tom/conf/tomcat-users.xml"
+'8  21  0  /opt/tom/webapps/manager/META-INF/context.xml
+|4,56,21,0,1690294903,"/opt/tom/webapps/manager/META-INF/context.xml"
 
 # Jumplist (newest first):
+-'  5  46  ~/Dockerfile
+|4,39,5,46,1690300086,"~/Dockerfile"
+-'  1  10  ~/index.html
+|4,39,1,10,1690299170,"~/index.html"
 -'  1  10  ~/index.html
 |4,39,1,10,1690299170,"~/index.html"
 -'  6  10  ~/Dockerfile
@@ -61,6 +67,8 @@
 |4,39,1,0,1690298808,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1690298808,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1690298808,"~/Dockerfile"
 -'  69  23  /opt/tom/conf/server.xml
 |4,39,69,23,1690295466,"/opt/tom/conf/server.xml"
 -'  69  23  /opt/tom/conf/server.xml
@@ -69,6 +77,22 @@
 |4,39,69,23,1690295466,"/opt/tom/conf/server.xml"
 -'  69  23  /opt/tom/conf/server.xml
 |4,39,69,23,1690295466,"/opt/tom/conf/server.xml"
+-'  69  23  /opt/tom/conf/server.xml
+|4,39,69,23,1690295466,"/opt/tom/conf/server.xml"
+-'  69  23  /opt/tom/conf/server.xml
+|4,39,69,23,1690295466,"/opt/tom/conf/server.xml"
+-'  69  23  /opt/tom/conf/server.xml
+|4,39,69,23,1690295466,"/opt/tom/conf/server.xml"
+-'  69  23  /opt/tom/conf/server.xml
+|4,39,69,23,1690295466,"/opt/tom/conf/server.xml"
+-'  1  0  /opt/tom/conf/server.xml
+|4,39,1,0,1690295423,"/opt/tom/conf/server.xml"
+-'  1  0  /opt/tom/conf/server.xml
+|4,39,1,0,1690295423,"/opt/tom/conf/server.xml"
+-'  1  0  /opt/tom/conf/server.xml
+|4,39,1,0,1690295423,"/opt/tom/conf/server.xml"
+-'  1  0  /opt/tom/conf/server.xml
+|4,39,1,0,1690295423,"/opt/tom/conf/server.xml"
 -'  1  0  /opt/tom/conf/server.xml
 |4,39,1,0,1690295423,"/opt/tom/conf/server.xml"
 -'  1  0  /opt/tom/conf/server.xml
@@ -93,6 +117,54 @@
 |4,39,1,0,1690295392,"/opt/tom/conf/catalina.properties"
 -'  1  0  /opt/tom/conf/catalina.properties
 |4,39,1,0,1690295392,"/opt/tom/conf/catalina.properties"
+-'  1  0  /opt/tom/conf/catalina.properties
+|4,39,1,0,1690295392,"/opt/tom/conf/catalina.properties"
+-'  1  0  /opt/tom/conf/catalina.properties
+|4,39,1,0,1690295392,"/opt/tom/conf/catalina.properties"
+-'  1  0  /opt/tom/conf/catalina.properties
+|4,39,1,0,1690295392,"/opt/tom/conf/catalina.properties"
+-'  1  0  /opt/tom/conf/catalina.properties
+|4,39,1,0,1690295392,"/opt/tom/conf/catalina.properties"
+-'  1  0  /opt/tom/conf/catalina.properties
+|4,39,1,0,1690295392,"/opt/tom/conf/catalina.properties"
+-'  1  0  /opt/tom/conf/catalina.properties
+|4,39,1,0,1690295392,"/opt/tom/conf/catalina.properties"
+-'  1  0  /opt/tom/conf/catalina.properties
+|4,39,1,0,1690295392,"/opt/tom/conf/catalina.properties"
+-'  1  0  /opt/tom/conf/catalina.properties
+|4,39,1,0,1690295392,"/opt/tom/conf/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
+-'  1  0  /opt/tom/catalina.properties
+|4,39,1,0,1690295304,"/opt/tom/catalina.properties"
 -'  1  0  /opt/tom/catalina.properties
 |4,39,1,0,1690295304,"/opt/tom/catalina.properties"
 -'  1  0  /opt/tom/catalina.properties
@@ -181,78 +253,17 @@
 |4,39,39,0,1690295208,"/opt/tom/bin/catalina-tasks.xml"
 -'  39  0  /opt/tom/bin/catalina-tasks.xml
 |4,39,39,0,1690295208,"/opt/tom/bin/catalina-tasks.xml"
--'  39  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,39,0,1690295208,"/opt/tom/bin/catalina-tasks.xml"
--'  39  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,39,0,1690295208,"/opt/tom/bin/catalina-tasks.xml"
--'  39  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,39,0,1690295208,"/opt/tom/bin/catalina-tasks.xml"
--'  39  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,39,0,1690295208,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
--'  1  0  /opt/tom/bin/catalina-tasks.xml
-|4,39,1,0,1690295167,"/opt/tom/bin/catalina-tasks.xml"
 
 # History of marks within files (newest to oldest):
+
+> ~/Dockerfile
+	*	1690300084	0
+	"	5	46
+	^	5	47
+	.	6	0
+	+	4	29
+	+	5	47
+	+	6	0
 
 > ~/index.html
 	*	1690299167	0
@@ -260,15 +271,6 @@
 	^	1	11
 	.	1	10
 	+	1	10
-
-> ~/Dockerfile
-	*	1690299113	0
-	"	6	10
-	^	6	11
-	.	6	10
-	+	4	29
-	+	5	47
-	+	6	10
 
 > /opt/tom/conf/server.xml
 	*	1690295462	0
